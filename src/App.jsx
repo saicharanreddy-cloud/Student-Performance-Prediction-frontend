@@ -11,7 +11,7 @@ import {
 } from "recharts";
 import "./App.css";
 
-const API_URL = "http://localhost:8080/api/students";
+const API_URL = "http://localhoVITE_API_URL=https://student-performance-prediction-backend-14rd.onrender.com";
 const AUTH_URL = "http://localhost:8080/api/auth";
 
 const emptyForm = {
